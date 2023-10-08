@@ -8,10 +8,9 @@ AllowShortBlocksOnASingleLine: Always
 AllowShortFunctionsOnASingleLine: All
 AllowShortLambdasOnASingleLine: All
 BreakStringLiterals: true
-IndentPPDirectives: BeforeHash
+IndentPPDirectives: AfterHash
 IndentCaseLabels: false
 ColumnLimit: 0
 AccessModifierOffset: -4
 NamespaceIndentation: All
 FixNamespaceComments: false
-
